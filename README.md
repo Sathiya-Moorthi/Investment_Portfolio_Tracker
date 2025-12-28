@@ -12,8 +12,6 @@ A comprehensive personal investment tracking application built with a modern tec
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 *   `frontend/`: Next.js web application for the dashboard and UI.
 *   `backend/`: FastAPI backend server and AI agents.
     *   `routers/`: FastAPI route handlers (endpoints).
