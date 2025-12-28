@@ -12,7 +12,9 @@ A comprehensive personal investment tracking application built with a modern tec
 
 ## 📂 Project Structure
 
-*   `scripts_frontend/`: Next.js web application for the dashboard and UI.
+## 📂 Project Structure
+
+*   `frontend/`: Next.js web application for the dashboard and UI.
 *   `backend/`: FastAPI backend server and AI agents.
     *   `routers/`: FastAPI route handlers (endpoints).
     *   `agents/`: specialized AI agents for market analysis and portfolio management.
@@ -57,9 +59,9 @@ A comprehensive personal investment tracking application built with a modern tec
 
 ### Frontend Setup
 
-1.  Navigate to `scripts_frontend/`:
+1.  Navigate to `frontend/`:
     ```bash
-    cd scripts_frontend
+    cd frontend
     ```
 2.  Install dependencies:
     ```bash
